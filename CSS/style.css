@@ -1,0 +1,88 @@
+* {
+  color: white;
+}
+
+.titlePadding {
+  padding-top: 200px;
+}
+
+.gradient {
+  background-color: linear-gradient(to left, transparent 0%, rgb(0, 0, 0) 300%);
+}
+
+#button {
+  padding: 15px 35px;
+  border: 2px solid white;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: centerS;
+}
+
+.container01 {
+  background-image: linear-gradient(
+      to left,
+      transparent 50%,
+      rgb(104, 0, 0) 300%
+    ),
+    url(../imagens/home/01.jpg);
+}
+
+.container02 {
+  background-image: linear-gradient(
+      to left,
+      transparent 50%,
+      rgb(0, 0, 143) 300%
+    ),
+    url(../imagens/home/03.jpg);
+}
+
+.container03 {
+  background-image: linear-gradient(to left, transparent 50%, rgb(0, 0, 0) 150%),
+    url(../imagens/home/02.gif);
+}
+
+.container04 {
+  background-image: linear-gradient(
+      to left,
+      transparent 50%,
+      rgb(107, 109, 0) 300%
+    ),
+    url(../imagens/home/04.jpg);
+}
+
+.container05 {
+  background-image: linear-gradient(
+      to left,
+      transparent 50%,
+      rgb(107, 109, 0) 300%
+    ),
+    url(../imagens/falcon9/14.jpg);
+}
+
+.container06 {
+  background-image: linear-gradient(
+      to left,
+      transparent 50%,
+      rgb(0, 0, 143) 300%
+    ),
+    url(../imagens/humanFlight/01.jpg);
+}
+
+.navlogo {
+  height: 35px;
+  margin-right: 20px;
+  margin-left: -20px;
+}
+
+.ArrowDown {
+  width: 100px;
+  padding-top: 100px;
+}
+
+.footer {
+  background-color: black;
+}
